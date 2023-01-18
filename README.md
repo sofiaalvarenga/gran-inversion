@@ -1,3 +1,3 @@
 # GRAN INVERSION
 
-Vuelve a hacer la tarea Prop It Up (Apóyalo) y convierte los componentes de clase en componentes funcionales.
+Vuelve a hacer la tarea Apoyarlo y convierte los componentes de clase en componentes funcionales.
